@@ -1,7 +1,6 @@
 module github.com/anacrolix/torrent
 
 require (
-	bazil.org/fuse v0.0.0-20180421153158-65cc252bf669
 	github.com/alexflint/go-arg v1.1.0
 	github.com/anacrolix/dht/v2 v2.1.1-0.20191017060219-221f300f6ea8
 	github.com/anacrolix/envpprof v1.0.1
@@ -18,7 +17,6 @@ require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/dustin/go-humanize v1.0.0
 	github.com/edsrzf/mmap-go v1.0.0
-	github.com/fsnotify/fsnotify v1.4.7
 	github.com/google/btree v1.0.0
 	github.com/gosuri/uiprogress v0.0.1
 	github.com/jessevdk/go-flags v1.4.0
